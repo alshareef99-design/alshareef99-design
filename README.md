@@ -11,8 +11,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/omar-alshareef1/) 
-[![Cv](/Users/khalidalshareef/Desktop/cv.png?logo=cv&logoColor=white)](
-https://pdflink.to/omaralshareefcv/) 
+[![My Cv]](https://pdflink.to/omaralshareefcv/) 
 - 👋 Hi, I’m @Omar Al-Shareef | Computer Engineer
 - 👀 I’m interested in Web development , UI/UX and Cloud Computing. 
 - 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website: https://omaralshareef.vercel.app/
