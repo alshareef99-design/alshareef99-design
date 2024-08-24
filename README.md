@@ -11,10 +11,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
-linkedin.com/in/omar- alshareef1) 
-- 👋 Hi, I’m @Hamza-Sallam
+linkedin.com/in/omar-alshareef1) 
+- 👋 Hi, I’m @Omar Al-Shareef | Computer Engineer
 - 👀 I’m interested in Web development , UI/UX and Cloud Computing. 
-- 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website: omaralshareef.vercel.app/
+- 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website: https://omaralshareef.vercel.app/
 
 
 # 💻 Tech Stack:
@@ -26,7 +26,7 @@ linkedin.com/in/omar- alshareef1)
   </p>
   
 # 
-![](https://github-readme-stats.vercel.app/api?username=Hamza-SALLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alshareef99-design&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alshareef99-design&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshareef99-design&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -47,4 +47,3 @@ linkedin.com/in/omar- alshareef1)
 [![](https://visitcount.itsvg.in/api?id=alshareef99-design&icon=10&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
