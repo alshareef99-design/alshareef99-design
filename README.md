@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" alt="Typing SVG" />
   </a>
 </p>
----
-## 🌐 Connect With Me
+
+🌐 Connect With Me
 
 - 🌍 Portfolio: https://omaralshareef.com
 - 💼 LinkedIn: https://www.linkedin.com/in/omar-alshareef1/
