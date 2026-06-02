@@ -72,7 +72,7 @@ AR experiences created using Lens Studio with engaging interactive effects.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alshareef99-design&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?username=alshareef99-design&theme=tokyonight&hide_border=true"/>
 
 </div>
 
