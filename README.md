@@ -30,7 +30,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,vscode"/>
 </p>
----
+
 
 ## 🚀 Featured Projects
 
