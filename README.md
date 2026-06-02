@@ -77,8 +77,6 @@ AR experiences created using Lens Studio with engaging interactive effects.
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 ---
 
 ## 🏆 Achievements
