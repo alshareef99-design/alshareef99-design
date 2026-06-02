@@ -1,3 +1,8 @@
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 <h1 align="center">Hi 👋, I'm Omar Alshareef</h1>
 <h3 align="center">Software Developer | ERPNext Developer | Mobile App Developer</h3>
 
@@ -32,12 +37,6 @@
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=70&lines=Omar+Alshareef;Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
 
 ---
 
