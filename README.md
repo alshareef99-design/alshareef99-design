@@ -1,49 +1,225 @@
+<h1 align="center">Hi 👋, I'm Omar Alshareef</h1>
+<h3 align="center">Software Developer | ERPNext Developer | Mobile App Developer</h3>
 
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Omar+Alshareef....;Welcome+to+my+GitHub!&center=true&size=30">
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" alt="Typing SVG" />
   </a>
-</h1>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/omar-alshareef1/) 
-[My Cv](https://omaralshareef.com/Omar-Alshareef-CV.pdf) 
-- 👋 Hi, I’m @Omar Al-Shareef | Computer Engineer
-- 👀 I’m interested in Web development , UI/UX and Cloud Computing. 
-- 📫 How to reach me ... email: omarr.alshareeff@gmail.com, website:https://omaralshareef.com/ 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-<br/>
-  <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-  </p>
-  
-# 
-![](https://github-readme-stats.vercel.app/api?username=alshareef99-design&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alshareef99-design&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alshareef99-design&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alshareef99-design&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alshareef99-design&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alshareef99-design&icon=10&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Software Developer passionate about building innovative solutions
+- 📱 Mobile Application Developer (iOS & Android)
+- ⚙️ ERPNext Customization & Development
+- 🏢 System Administrator & Business Process Automation
+- 🌍 Based in Riyadh, Saudi Arabia
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge)
+![Frappe](https://img.shields.io/badge/Frappe-2490EF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+### 📱 LSC App
+Legal services mobile application with modern UI and business automation features.
+
+### ⚖️ Takamol Customized ERP System
+Customized ERPNext solution for legal operations, workflow management, and administration.
+
+### 🚩 Guess The Flags Game
+Interactive educational mobile game for learning country flags.
+
+### 👻 Snapchat Lenses
+Designed and developed custom AR experiences using Snapchat Lens Studio.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://omaralshareef.com
+- 💼 LinkedIn: YOUR_LINKEDIN
+- 📧 Email: oalshareef94@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+<h3 align="center">🚀 Building Digital Solutions That Make an Impact</h3>
+
+For a portfolio-style GitHub profile that matches the modern design of your website (omaralshareef.com), I can create a premium dark-theme GitHub profile with banners, animations, skill icons, and project cards.
+
+CAN U MAKE IT WITH DESIGN AND INTERACTIVE
+
+Yes. GitHub profiles support HTML, badges, GIFs, SVG animations, dynamic stats, and interactive elements. Here's a more premium, modern version:
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=70&lines=Omar+Alshareef;Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+# 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVqYWp5cTVzY2QxMjA4M2Z4aDZ4ZzI5cXo5aXh4ZWl1NWhlYW50dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+🚀 Software Developer passionate about creating impactful digital solutions.
+
+⚙️ ERPNext & Frappe Customization Specialist.
+
+📱 Mobile Application Developer (Flutter).
+
+☁️ System Administration & Cloud Infrastructure.
+
+🌍 Riyadh, Saudi Arabia.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,vscode"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚖️ Takamol ERP System
+Customized ERPNext solution for legal operations, workflow automation, and administration.
+
+</td>
+<td width="50%">
+
+### 📱 LSC App
+Legal services platform providing seamless digital solutions and user-friendly experiences.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚩 Guess The Flags
+Interactive educational mobile game designed to improve geographical knowledge.
+
+</td>
+<td width="50%">
+
+### 👻 Snapchat Lenses
+AR experiences created using Lens Studio with engaging interactive effects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://omaralshareef.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:oalshareef94@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Building Digital Solutions That Matter
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
