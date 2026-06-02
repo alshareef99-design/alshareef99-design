@@ -83,7 +83,7 @@ AR experiences created using Lens Studio with engaging interactive effects.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alshareef99_design&theme=tokyo-night"/>
 
 </div>
 ---
