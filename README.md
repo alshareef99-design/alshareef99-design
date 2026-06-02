@@ -22,9 +22,6 @@
 
 🌍 Riyadh, Saudi Arabia.
 
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
