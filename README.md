@@ -84,7 +84,6 @@ AR experiences created using Lens Studio with engaging interactive effects.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alshareef99-design&theme=tokyo-night"/>
 
 </div>
----
 
 ## 🌐 Connect With Me
 
@@ -104,7 +103,7 @@ AR experiences created using Lens Studio with engaging interactive effects.
 
 </p>
 
----
+
 
 <div align="center">
 
