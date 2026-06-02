@@ -34,12 +34,6 @@
 
 </p>
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=70&lines=Omar+Alshareef;Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" />
-
----
-
 ## 🚀 Featured Projects
 
 <table>
