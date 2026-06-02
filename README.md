@@ -6,8 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" alt="Typing SVG" />
   </a>
 </p>
----
-# 👨‍💻 About Me
+
+👨‍💻 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVqYWp5cTVzY2QxMjA4M2Z4aDZ4ZzI5cXo5aXh4ZWl1NWhlYW50dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
