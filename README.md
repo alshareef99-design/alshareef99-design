@@ -128,10 +128,6 @@ AR experiences created using Lens Studio with engaging interactive effects.
 
 <div align="center">
 
-### 🚀 Building Digital Solutions That Matter
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
