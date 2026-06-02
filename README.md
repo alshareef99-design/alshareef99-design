@@ -6,7 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" alt="Typing SVG" />
   </a>
 </p>
+---
+## 🌐 Connect With Me
 
+- 🌍 Portfolio: https://omaralshareef.com
+- 💼 LinkedIn: https://www.linkedin.com/in/omar-alshareef1/
+- 📧 Email: oalshareef94@gmail.com
 ---
 # 👨‍💻 About Me
 
@@ -59,15 +64,6 @@ Designed and developed custom AR experiences using Snapchat Lens Studio.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
 </p>
 
----
-
-## 🌐 Connect With Me
-
-- 🌍 Portfolio: https://omaralshareef.com
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 📧 Email: oalshareef94@gmail.com
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
