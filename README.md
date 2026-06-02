@@ -8,14 +8,20 @@
 </p>
 
 ---
+# 👨‍💻 About Me
 
-## 🚀 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVqYWp5cTVzY2QxMjA4M2Z4aDZ4ZzI5cXo5aXh4ZWl1NWhlYW50dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-- 💻 Software Developer passionate about building innovative solutions
-- 📱 Mobile Application Developer (iOS & Android)
-- ⚙️ ERPNext Customization & Development
-- 🏢 System Administrator & Business Process Automation
-- 🌍 Based in Riyadh, Saudi Arabia
+🚀 Software Developer passionate about creating impactful digital solutions.
+
+⚙️ ERPNext & Frappe Customization Specialist.
+
+📱 Mobile Application Developer (Flutter).
+
+☁️ System Administration & Cloud Infrastructure.
+
+🌍 Riyadh, Saudi Arabia.
+
 
 ---
 
