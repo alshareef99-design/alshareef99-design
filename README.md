@@ -25,19 +25,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
 
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge)
-![Frappe](https://img.shields.io/badge/Frappe-2490EF?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,vscode"/>
+
+</p>
 
 ---
 
@@ -99,30 +93,6 @@ Yes. GitHub profiles support HTML, badges, GIFs, SVG animations, dynamic stats, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
-
-# 👨‍💻 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVqYWp5cTVzY2QxMjA4M2Z4aDZ4ZzI5cXo5aXh4ZWl1NWhlYW50dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-
-🚀 Software Developer passionate about creating impactful digital solutions.
-
-⚙️ ERPNext & Frappe Customization Specialist.
-
-📱 Mobile Application Developer (Flutter).
-
-☁️ System Administration & Cloud Infrastructure.
-
-🌍 Riyadh, Saudi Arabia.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,vscode"/>
-
-</p>
 
 ---
 
