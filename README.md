@@ -31,48 +31,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 📱 LSC App
-Legal services mobile application with modern UI and business automation features.
-
-### ⚖️ Takamol Customized ERP System
-Customized ERPNext solution for legal operations, workflow management, and administration.
-
-### 🚩 Guess The Flags Game
-Interactive educational mobile game for learning country flags.
-
-### 👻 Snapchat Lenses
-Designed and developed custom AR experiences using Snapchat Lens Studio.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
-</p>
-
-<h3 align="center">🚀 Building Digital Solutions That Make an Impact</h3>
-
-For a portfolio-style GitHub profile that matches the modern design of your website (omaralshareef.com), I can create a premium dark-theme GitHub profile with banners, animations, skill icons, and project cards.
-
-CAN U MAKE IT WITH DESIGN AND INTERACTIVE
-
-Yes. GitHub profiles support HTML, badges, GIFs, SVG animations, dynamic stats, and interactive elements. Here's a more premium, modern version:
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=70&lines=Omar+Alshareef;Software+Developer;ERPNext+Developer;Mobile+App+Developer;System+Administrator" />
 
 <br>
