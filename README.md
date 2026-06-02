@@ -26,13 +26,13 @@
 
 🌍 Riyadh, Saudi Arabia.
 
+<br clear="right"/>
+<br/>
 
-<tr>
 ## 🛠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,vscode"/>
 </p>
-</tr>
 
 ## 🚀 Featured Projects
 
