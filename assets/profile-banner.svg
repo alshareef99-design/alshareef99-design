@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Omar Al-Shareef — Software and AI Engineer</title>
+  <desc id="desc">Portfolio-inspired dark grid with a blue glow and cards for AI, mobile, and enterprise development.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".2"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="#090c10"/>
+  <rect width="1200" height="440" rx="20" fill="url(#grid)"/>
+  <ellipse cx="590" cy="220" rx="560" ry="330" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="62" fill="#7dd3fc" font-family="monospace" font-size="13" letter-spacing="3">SOFTWARE &amp; AI ENGINEER</text>
+    <text x="60" y="154" fill="#f8fafc" font-size="86" font-weight="700" letter-spacing="-4">Omar</text>
+    <text x="60" y="241" fill="#85909e" font-size="86" font-weight="700" letter-spacing="-4">Al-Shareef</text>
+    <text x="64" y="298" fill="#b6c1ce" font-size="20">AI-powered products. Practical software.</text>
+    <text x="64" y="330" fill="#b6c1ce" font-size="20">From ideas to production.</text>
+    <text x="64" y="391" fill="#7dd3fc" font-family="monospace" font-size="13" letter-spacing="2">RIYADH, SAUDI ARABIA · OMARALSHAREEF.COM</text>
+    <g transform="translate(768 64) rotate(-3 175 48)">
+      <rect width="352" height="88" rx="14" fill="#111923" stroke="#314353"/>
+      <text x="24" y="32" fill="#7dd3fc" font-family="monospace" font-size="11" letter-spacing="2">01 / AI ENGINEERING</text>
+      <text x="24" y="62" fill="#f8fafc" font-size="23" font-weight="600">LLMs · RAG · LiveKit</text>
+    </g>
+    <g transform="translate(792 174) rotate(2 170 48)">
+      <rect width="328" height="88" rx="14" fill="#111923" stroke="#314353"/>
+      <text x="24" y="32" fill="#7dd3fc" font-family="monospace" font-size="11" letter-spacing="2">02 / APPLICATIONS</text>
+      <text x="24" y="62" fill="#f8fafc" font-size="23" font-weight="600">Flutter · Web · ERPNext</text>
+    </g>
+    <g transform="translate(768 284) rotate(-2 175 48)">
+      <rect width="352" height="88" rx="14" fill="#111923" stroke="#314353"/>
+      <text x="24" y="32" fill="#7dd3fc" font-family="monospace" font-size="11" letter-spacing="2">03 / CREATIVE SYSTEMS</text>
+      <text x="24" y="62" fill="#f8fafc" font-size="23" font-weight="600">3D Design · AR · Cloud</text>
+    </g>
+  </g>
+</svg>

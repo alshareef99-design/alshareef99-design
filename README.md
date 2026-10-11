@@ -1,51 +1,53 @@
-<h1 align="center">Hi, I'm Omar Alshareef 👋</h1>
+<a href="https://www.omaralshareef.com/">
+  <img src="./assets/profile-banner.svg" alt="Omar Al-Shareef — Software & AI Engineer. LLMs, RAG, LiveKit, Flutter, ERPNext, and 3D design." width="100%"/>
+</a>
 
 <p align="center">
-  <strong>Software & AI Engineer</strong><br/>
-  Mobile · Web · Backend · AI<br/>
-  Riyadh, Saudi Arabia
-</p>
-
-<p align="center">
-  <a href="https://omaralshareef.com">Portfolio</a> ·
-  <a href="https://omaralshareef.com/Omar-Alshareef-CV.pdf">CV</a> ·
+  <a href="https://www.omaralshareef.com/">Explore my portfolio</a> ·
+  <a href="#selected-projects">Selected work</a> ·
+  <a href="https://omaralshareef.com/Omar-Alshareef-CV.pdf">Download CV</a> ·
   <a href="https://www.linkedin.com/in/omar-alshareef1/">LinkedIn</a> ·
-  <a href="mailto:oalshareef94@gmail.com">Email</a>
+  <a href="mailto:oalshareef94@gmail.com">Let's connect</a>
 </p>
 
-## About me
+---
 
-I build mobile, web, and backend applications, connecting practical software with AI.
+## 01 / About me
+
+I build AI-powered products, retrieval systems, ERP platforms, and mobile apps — turning ideas into production-ready software.
 
 - **AI engineering:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and real-time voice experiences with LiveKit.
 - **Applications:** Flutter mobile development, ERPNext & Frappe customization, APIs, and system integration.
 - **Creative work:** 3D design and AR experiences with Lens Studio.
 - **Infrastructure:** Cloud services and system administration.
 
-## Tools & technologies
+## 02 / Tools & technologies
 
 | Area | Technologies |
 | --- | --- |
 | Languages | Dart · Python · JavaScript · SQL |
 | Mobile & web | Flutter · HTML · CSS |
-| AI | LLMs · RAG · AI/ML · LiveKit |
+| AI | LLMs · RAG · LangChain · Gemini · LiveKit |
 | Business systems | ERPNext · Frappe · APIs |
 | Infrastructure | Linux · Docker · Git · MySQL |
 | Design | 3D design · Lens Studio |
 
-## Selected projects
+<a id="selected-projects"></a>
+
+## 03 / Selected projects
 
 | Project | Focus |
 | --- | --- |
+| **[Portfolio AI Assistant](https://www.omaralshareef.com/)** | LangChain RAG assistant with document ingestion, embeddings, and vector retrieval over my CV and portfolio |
 | **Takamol ERP** | ERPNext for legal operations, workflows, and automation |
 | **LSC App** | Mobile platform for legal services |
 | **Guess The Flags** | Educational geography game |
 | **Snapchat Lenses** | AR experiences built with Lens Studio |
 
-## GitHub activity
+## 04 / GitHub activity
 
 <a href="https://github.com/alshareef99-design?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=alshareef99-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=6A5ACD" alt="Omar's GitHub activity statistics — click to explore repositories" width="495"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alshareef99-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090C10&title_color=7DD3FC&icon_color=38BDF8&text_color=B6C1CE" alt="Omar's GitHub activity statistics — click to explore repositories" width="495"/>
 </a>
 
 <details>
@@ -56,3 +58,7 @@ I build mobile, web, and backend applications, connecting practical software wit
     <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D chart of GitHub contributions" width="100%"/>
   </a>
 </details>
+
+---
+
+<p align="center"><strong>Have an idea in mind?</strong> <a href="https://www.omaralshareef.com/">Let’s build something useful.</a></p>
