@@ -1,99 +1,58 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:3B82F6,100:6A5ACD&height=220&section=header&text=Omar%20Alshareef&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%203D%20Design&descSize=15&descAlignY=58&descColor=E0F2FE" alt="header"/>
-</div>
-
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/>, I'm Omar Alshareef
-</h1>
+<h1 align="center">Hi, I'm Omar Alshareef 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=560&lines=AI+Engineer;LLMs+%26+RAG;LiveKit+Voice+AI;3D+Design;Software+Developer;ERPNext+%26+Frappe+Specialist;Flutter+Mobile+Developer;System+Administrator" alt="Typing SVG"/>
+  <strong>Software & AI Engineer</strong><br/>
+  Mobile · Web · Backend · AI<br/>
+  Riyadh, Saudi Arabia
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
+  <a href="https://omaralshareef.com">Portfolio</a> ·
+  <a href="https://omaralshareef.com/Omar-Alshareef-CV.pdf">CV</a> ·
+  <a href="https://www.linkedin.com/in/omar-alshareef1/">LinkedIn</a> ·
+  <a href="mailto:oalshareef94@gmail.com">Email</a>
 </p>
 
-## 👨‍💻 About Me
+## About me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+I build mobile, web, and backend applications, connecting practical software with AI.
 
-- 🚀 Software Developer passionate about impactful digital solutions
-- 🤖 AI Engineer working with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- 🎙️ Real-time voice AI and conversational experiences with LiveKit
-- 🎨 3D Design and immersive digital experiences
-- ⚙️ ERPNext & Frappe Customization Specialist
-- 📱 Mobile Application Developer (Flutter)
-- ☁️ System Administration & Cloud Infrastructure
-- 🌍 Based in Riyadh, Saudi Arabia
+- **AI engineering:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and real-time voice experiences with LiveKit.
+- **Applications:** Flutter mobile development, ERPNext & Frappe customization, APIs, and system integration.
+- **Creative work:** 3D design and AR experiences with Lens Studio.
+- **Infrastructure:** Cloud services and system administration.
 
-<br clear="right"/>
+## Tools & technologies
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
-</p>
+| Area | Technologies |
+| --- | --- |
+| Languages | Dart · Python · JavaScript · SQL |
+| Mobile & web | Flutter · HTML · CSS |
+| AI | LLMs · RAG · AI/ML · LiveKit |
+| Business systems | ERPNext · Frappe · APIs |
+| Infrastructure | Linux · Docker · Git · MySQL |
+| Design | 3D design · Lens Studio |
 
-## 🛠 Tech Stack
+## Selected projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,docker,vscode&perline=11" alt="tech stack"/>
-</p>
+| Project | Focus |
+| --- | --- |
+| **Takamol ERP** | ERPNext for legal operations, workflows, and automation |
+| **LSC App** | Mobile platform for legal services |
+| **Guess The Flags** | Educational geography game |
+| **Snapchat Lenses** | AR experiences built with Lens Studio |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-00C2FF?style=for-the-badge" alt="AI Engineering"/>
-  <img src="https://img.shields.io/badge/LLMs-3B82F6?style=for-the-badge" alt="Large Language Models"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
-  <img src="https://img.shields.io/badge/LiveKit-0D1117?style=for-the-badge" alt="LiveKit"/>
-  <img src="https://img.shields.io/badge/3D%20Design-00C2FF?style=for-the-badge" alt="3D Design"/>
-</p>
+## GitHub activity
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
-</p>
+<a href="https://github.com/alshareef99-design?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=alshareef99-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=6A5ACD" alt="Omar's GitHub activity statistics — click to explore repositories" width="495"/>
+</a>
 
-## 🚀 Featured Projects
+<details>
+  <summary>Explore my animated 3D contribution chart</summary>
 
-| Project | Description |
-|---|---|
-| **⚖️ Takamol ERP** | Custom ERPNext for legal operations, workflows & automation |
-| **📱 LSC App** | Legal services platform with seamless digital experiences |
-| **🚩 Guess The Flags** | Educational mobile game for geography learning |
-| **👻 Snapchat Lenses** | AR experiences built with Lens Studio |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alshareef99-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=6A5ACD" alt="stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alshareef99-design&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=6A5ACD&currStreakLabel=00C2FF" alt="streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contributions"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alshareef99-design/alshareef99-design/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
-</p>
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://omaralshareef.com"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://omaralshareef.com/Omar-Alshareef-CV.pdf"><img src="https://img.shields.io/badge/CV-6A5ACD?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
-  <a href="https://www.linkedin.com/in/omar-alshareef1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:oalshareef94@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:3B82F6,100:6A5ACD&height=120&section=footer&animation=fadeIn" alt="footer"/>
+  <p>Generated daily by GitHub Actions. Click the chart to explore my contribution history.</p>
+  <a href="https://github.com/alshareef99-design">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D chart of GitHub contributions" width="100%"/>
+  </a>
+</details>
