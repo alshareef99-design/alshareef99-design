@@ -3,11 +3,11 @@
 </a>
 
 <p align="center">
-  <a href="https://www.omaralshareef.com/">Explore my portfolio</a> ·
-  <a href="#selected-projects">Selected work</a> ·
-  <a href="https://omaralshareef.com/Omar-Alshareef-CV.pdf">Download CV</a> ·
-  <a href="https://www.linkedin.com/in/omar-alshareef1/">LinkedIn</a> ·
-  <a href="mailto:oalshareef94@gmail.com">Let's connect</a>
+  <a href="https://www.omaralshareef.com/"><img src="./assets/buttons/portfolio.svg" alt="Explore my portfolio" height="38"/></a>
+  <a href="#selected-projects"><img src="./assets/buttons/work.svg" alt="Selected work" height="38"/></a>
+  <a href="https://omaralshareef.com/Omar-Alshareef-CV.pdf"><img src="./assets/buttons/cv.svg" alt="Download CV" height="38"/></a>
+  <a href="https://www.linkedin.com/in/omar-alshareef1/"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="38"/></a>
+  <a href="mailto:oalshareef94@gmail.com"><img src="./assets/buttons/connect.svg" alt="Let&#x27;s connect" height="38"/></a>
 </p>
 
 ---
