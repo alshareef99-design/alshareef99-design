@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:3B82F6,100:6A5ACD&height=220&section=header&text=Omar%20Alshareef&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20ERPNext%20%7C%20Flutter&descSize=15&descAlignY=58&descColor=E0F2FE" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:3B82F6,100:6A5ACD&height=220&section=header&text=Omar%20Alshareef&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%203D%20Design&descSize=15&descAlignY=58&descColor=E0F2FE" alt="header"/>
 </div>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=560&lines=Software+Developer;ERPNext+%26+Frappe+Specialist;Flutter+Mobile+Developer;System+Administrator" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=560&lines=AI+Engineer;LLMs+%26+RAG;LiveKit+Voice+AI;3D+Design;Software+Developer;ERPNext+%26+Frappe+Specialist;Flutter+Mobile+Developer;System+Administrator" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,6 +19,9 @@
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
 - 🚀 Software Developer passionate about impactful digital solutions
+- 🤖 AI Engineer working with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- 🎙️ Real-time voice AI and conversational experiences with LiveKit
+- 🎨 3D Design and immersive digital experiences
 - ⚙️ ERPNext & Frappe Customization Specialist
 - 📱 Mobile Application Developer (Flutter)
 - ☁️ System Administration & Cloud Infrastructure
@@ -34,6 +37,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,git,linux,mysql,docker,vscode&perline=11" alt="tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-00C2FF?style=for-the-badge" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/LLMs-3B82F6?style=for-the-badge" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
+  <img src="https://img.shields.io/badge/LiveKit-0D1117?style=for-the-badge" alt="LiveKit"/>
+  <img src="https://img.shields.io/badge/3D%20Design-00C2FF?style=for-the-badge" alt="3D Design"/>
 </p>
 
 <p align="center">
